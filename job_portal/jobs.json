@@ -1,0 +1,102 @@
+{
+  "companies": [
+    {
+      "companyId": "101",
+      "name": "TechCorp",
+      "location": "San Francisco, CA",
+      "industry": "Technology",
+      "website": "https://www.techcorp.com",
+      "jobs": [
+        {
+          "jobId": "1",
+          "title": "Software Engineer1",
+          "companyId": "101",
+          "location": "San Francisco, CA",
+          "employmentType": "Full-time",
+          "salary": {
+            "min": 80000,
+            "max": 120000,
+            "currency": "USD"
+          },
+          "description": "Develop and maintain software applications...",
+          "requirements": [
+            "Bachelor's degree in Computer Science or related field",
+            "3+ years of experience in software development",
+            "Proficiency in Java, Python, or similar languages"
+          ],
+          "postedDate": "2024-09-25",
+          "expiryDate": "2024-10-25"
+        },
+        {
+          "jobId": "2",
+          "title": "Product Manager1",
+          "companyId": "102",
+          "location": "Remote",
+          "employmentType": "Contract",
+          "salary": {
+            "min": 50000,
+            "max": 70000,
+            "currency": "USD"
+          },
+          "description": "Oversee product development lifecycle...",
+          "requirements": [
+            "3+ years of experience in product management",
+            "Experience with Agile methodologies",
+            "Excellent communication skills"
+          ],
+          "postedDate": "2024-09-20",
+          "expiryDate": "2024-10-20"
+        }
+      ]
+    },
+    {
+      "companyId": "102",
+      "name": "Innovate Solutions",
+      "location": "Remote",
+      "industry": "Consulting",
+      "website": "https://www.innovatesolutions.com",
+      "jobs": [
+        {
+          "jobId": "1",
+          "title": "Software Engineer2",
+          "companyId": "101",
+          "location": "San Francisco, CA",
+          "employmentType": "Full-time",
+          "salary": {
+            "min": 80000,
+            "max": 120000,
+            "currency": "USD"
+          },
+          "description": "Develop and maintain software applications...",
+          "requirements": [
+            "Bachelor's degree in Computer Science or related field",
+            "3+ years of experience in software development",
+            "Proficiency in Java, Python, or similar languages"
+          ],
+          "postedDate": "2024-09-25",
+          "expiryDate": "2024-10-25"
+        },
+        {
+          "jobId": "2",
+          "title": "Product Manager2",
+          "companyId": "102",
+          "location": "Remote",
+          "employmentType": "Contract",
+          "salary": {
+            "min": 50000,
+            "max": 70000,
+            "currency": "USD"
+          },
+          "description": "Oversee product development lifecycle...",
+          "requirements": [
+            "3+ years of experience in product management",
+            "Experience with Agile methodologies",
+            "Excellent communication skills"
+          ],
+          "postedDate": "2024-09-20",
+          "expiryDate": "2024-10-20"
+        }
+      ]
+    }
+  ]
+}
