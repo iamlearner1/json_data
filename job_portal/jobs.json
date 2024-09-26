@@ -25,7 +25,17 @@
             "Proficiency in Java, Python, or similar languages"
           ],
           "postedDate": "2024-09-25",
-          "expiryDate": "2024-10-25"
+          "expiryDate": "2024-10-25",
+          "repositories": [
+            {
+              "owner": "Pragament",
+              "repo": "flutter_resume_builder"
+            },
+            {
+              "owner": "Pragament",
+              "repo": "flutter_news_browser_app"
+            }
+          ]
         },
         {
           "jobId": "2",
