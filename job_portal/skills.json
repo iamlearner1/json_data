@@ -1,0 +1,291 @@
+{
+  "skills": [
+    {
+      "name": "Python",
+      "extensions": [
+        {
+          "extension": ".py",
+          "description": "Python script file"
+        }
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "extensions": [
+        {
+          "extension": ".js",
+          "description": "JavaScript file"
+        },
+        {
+          "extension": ".mjs",
+          "description": "JavaScript module file"
+        },
+        {
+          "extension": ".cjs",
+          "description": "CommonJS module file"
+        }
+      ]
+    },
+    {
+      "name": "Java",
+      "extensions": [
+        {
+          "extension": ".java",
+          "description": "Java source code file"
+        }
+      ]
+    },
+    {
+      "name": "C",
+      "extensions": [
+        {
+          "extension": ".c",
+          "description": "C source code file"
+        },
+        {
+          "extension": ".h",
+          "description": "C header file"
+        }
+      ]
+    },
+    {
+      "name": "C++",
+      "extensions": [
+        {
+          "extension": ".cpp",
+          "description": "C++ source code file"
+        },
+        {
+          "extension": ".cc",
+          "description": "C++ source code file (alternative)"
+        },
+        {
+          "extension": ".cxx",
+          "description": "C++ source code file (alternative)"
+        },
+        {
+          "extension": ".h",
+          "description": "C/C++ header file"
+        },
+        {
+          "extension": ".hpp",
+          "description": "C++ header file"
+        }
+      ]
+    },
+    {
+      "name": "C#",
+      "extensions": [
+        {
+          "extension": ".cs",
+          "description": "C# source code file"
+        }
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "extensions": [
+        {
+          "extension": ".ts",
+          "description": "TypeScript source code file"
+        },
+        {
+          "extension": ".tsx",
+          "description": "TypeScript JSX file"
+        }
+      ]
+    },
+    {
+      "name": "Go",
+      "extensions": [
+        {
+          "extension": ".go",
+          "description": "Go source code file"
+        }
+      ]
+    },
+    {
+      "name": "Swift",
+      "extensions": [
+        {
+          "extension": ".swift",
+          "description": "Swift source code file"
+        }
+      ]
+    },
+    {
+      "name": "Ruby",
+      "extensions": [
+        {
+          "extension": ".rb",
+          "description": "Ruby script file"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "extensions": [
+        {
+          "extension": ".php",
+          "description": "PHP script file"
+        },
+        {
+          "extension": ".phtml",
+          "description": "PHP HTML embedded file"
+        },
+        {
+          "extension": ".php3",
+          "description": "PHP version 3 file"
+        },
+        {
+          "extension": ".php4",
+          "description": "PHP version 4 file"
+        },
+        {
+          "extension": ".php5",
+          "description": "PHP version 5 file"
+        },
+        {
+          "extension": ".phps",
+          "description": "PHP source code highlight file"
+        }
+      ]
+    },
+    {
+      "name": "Kotlin",
+      "extensions": [
+        {
+          "extension": ".kt",
+          "description": "Kotlin source code file"
+        },
+        {
+          "extension": ".kts",
+          "description": "Kotlin script file"
+        }
+      ]
+    },
+    {
+      "name": "Rust",
+      "extensions": [
+        {
+          "extension": ".rs",
+          "description": "Rust source code file"
+        }
+      ]
+    },
+    {
+      "name": "HTML",
+      "extensions": [
+        {
+          "extension": ".html",
+          "description": "HyperText Markup Language file"
+        },
+        {
+          "extension": ".htm",
+          "description": "HTML file (alternative)"
+        }
+      ]
+    },
+    {
+      "name": "CSS",
+      "extensions": [
+        {
+          "extension": ".css",
+          "description": "Cascading Style Sheets file"
+        }
+      ]
+    },
+    {
+      "name": "SQL",
+      "extensions": [
+        {
+          "extension": ".sql",
+          "description": "Structured Query Language file"
+        }
+      ]
+    },
+    {
+      "name": "Shell",
+      "extensions": [
+        {
+          "extension": ".sh",
+          "description": "Shell script file"
+        },
+        {
+          "extension": ".bash",
+          "description": "Bash script file"
+        }
+      ]
+    },
+    {
+      "name": "R",
+      "extensions": [
+        {
+          "extension": ".r",
+          "description": "R script file"
+        },
+        {
+          "extension": ".R",
+          "description": "R script file (alternative case)"
+        }
+      ]
+    },
+    {
+      "name": "Perl",
+      "extensions": [
+        {
+          "extension": ".pl",
+          "description": "Perl script file"
+        },
+        {
+          "extension": ".pm",
+          "description": "Perl module file"
+        }
+      ]
+    },
+    {
+      "name": "Scala",
+      "extensions": [
+        {
+          "extension": ".scala",
+          "description": "Scala source code file"
+        },
+        {
+          "extension": ".sc",
+          "description": "Scala script file"
+        }
+      ]
+    },
+    {
+      "name": "Haskell",
+      "extensions": [
+        {
+          "extension": ".hs",
+          "description": "Haskell source code file"
+        },
+        {
+          "extension": ".lhs",
+          "description": "Literate Haskell source code file"
+        }
+      ]
+    },
+    {
+      "name": "Dart",
+      "extensions": [
+        {
+          "extension": ".dart",
+          "description": "Dart source code file"
+        }
+      ]
+    },
+    {
+      "name": "Lua",
+      "extensions": [
+        {
+          "extension": ".lua",
+          "description": "Lua script file"
+        }
+      ]
+    }
+  ]
+}
