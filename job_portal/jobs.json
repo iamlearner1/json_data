@@ -26,6 +26,7 @@
           "location": "San Francisco, CA",
           "industry": "Technology",
           "website": "https://www.techcorp.com",
+          "Logo": "https://placehold.co/600x400?text=TechCorp1",
           "repositories": [
             {
               "owner": "Pragament",
@@ -43,6 +44,7 @@
           "location": "Remote",
           "industry": "Consulting",
           "website": "https://www.innovatesolutions.com",
+          "Logo": "https://placehold.co/600x400?text=InnovateSolutions1",
           "repositories": [
             {
               "owner": "Pragament",
@@ -75,30 +77,42 @@
       ],
       "postedDate": "2024-09-20",
       "expiryDate": "2024-10-20",
-      "repositories": [
-        {
-          "owner": "Pragament",
-          "repo": "flutter_resume_builder"
-        },
-        {
-          "owner": "Pragament",
-          "repo": "flutter_news_browser_app"
-        }
-      ],
       "companies": [
         {
           "companyId": "201",
           "name": "TechCorp2",
           "location": "San Francisco, CA",
           "industry": "Technology",
-          "website": "https://www.techcorp.com"
+          "website": "https://www.techcorp.com",
+          "Logo": "https://placehold.co/600x400?text=TechCorp2",
+          "repositories": [
+            {
+              "owner": "Pragament",
+              "repo": "flutter_resume_builder"
+            },
+            {
+              "owner": "Pragament",
+              "repo": "flutter_news_browser_app"
+            }
+          ]
         },
         {
           "companyId": "202",
           "name": "Innovate Solutions2",
           "location": "Remote",
           "industry": "Consulting",
-          "website": "https://www.innovatesolutions.com"
+          "website": "https://www.innovatesolutions.com",
+          "Logo": "https://placehold.co/600x400?text=InnovateSolutions2",
+          "repositories": [
+            {
+              "owner": "Pragament",
+              "repo": "flutter_resume_builder"
+            },
+            {
+              "owner": "Pragament",
+              "repo": "flutter_news_browser_app"
+            }
+          ]
         }
       ]
     }
