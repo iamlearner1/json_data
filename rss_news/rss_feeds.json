@@ -1,0 +1,363 @@
+{
+    "feeds": [{
+            "_id": {
+                "$oid": "663db5d3c6f9be692573d441"
+            },
+            "weight": -5,
+            "category": "international",
+            "source": "Oneindia",
+            "language": "hi",
+            "feed_url": "https://hindi.oneindia.com/rss/feeds/hindi-international-fb.xml"
+        },
+        {
+            "_id": {
+                "$oid": "663db5d3c6f9be692573d442"
+            },
+            "weight": -5,
+            "category": "India and World",
+            "source": "Hindustan Times",
+            "language": "te",
+            "feed_url": "https://telugu.hindustantimes.com/rss/national-international"
+        },
+        {
+            "_id": {
+                "$oid": "663db5d3c6f9be692573d443"
+            },
+            "weight": -5,
+            "category": "international",
+            "source": "Hindustan Times",
+            "language": "en",
+            "feed_url": "https://www.hindustantimes.com/feeds/rss/brand-stories/international/rssfeed.xml"
+        },
+        {
+            "_id": {
+                "$oid": "663db5d3c6f9be692573d444"
+            },
+            "weight": -5,
+            "category": "world",
+            "source": "Hindustan Times",
+            "language": "en",
+            "feed_url": "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml"
+        },
+        {
+            "_id": {
+                "$oid": "663db5d3c6f9be692573d445"
+            },
+            "weight": -4,
+            "category": "business",
+            "source": "Hindustan Times",
+            "language": "te",
+            "feed_url": "https://telugu.hindustantimes.com/rss/business"
+        },
+        {
+            "_id": {
+                "$oid": "663db5d3c6f9be692573d446"
+            },
+            "weight": -4,
+            "category": "business",
+            "source": "Oneindia",
+            "language": "hi",
+            "feed_url": "https://hindi.oneindia.com/rss/feeds/hindi-business-fb.xml"
+        },
+        {
+            "_id": {
+                "$oid": "663db5d3c6f9be692573d447"
+            },
+            "weight": -4,
+            "category": "business",
+            "source": "Hindustan Times",
+            "language": "en",
+            "feed_url": "https://www.hindustantimes.com/feeds/rss/business/rssfeed.xml"
+        },
+        {
+            "_id": {
+                "$oid": "663db5d3c6f9be692573d448"
+            },
+            "weight": 0,
+            "category": "bihar",
+            "source": "Oneindia",
+            "language": "hi",
+            "feed_url": "https://hindi.oneindia.com/rss/feeds/hindi-bihar-fb.xml"
+        },
+        {
+            "_id": {
+                "$oid": "663db5d3c6f9be692573d449"
+            },
+            "weight": 0,
+            "category": "madhya pradesh",
+            "source": "Oneindia",
+            "language": "hi",
+            "feed_url": "https://hindi.oneindia.com/rss/feeds/hindi-madhya-pradesh-fb.xml"
+        },
+        {
+            "_id": {
+                "$oid": "663db5d3c6f9be692573d44a"
+            },
+            "weight": 0,
+            "category": "delhi",
+            "source": "Oneindia",
+            "language": "hi",
+            "feed_url": "https://hindi.oneindia.com/rss/feeds/hindi-delhi-fb.xml"
+        },
+        {
+            "_id": {
+                "$oid": "663db5d3c6f9be692573d44b"
+            },
+            "weight": 0,
+            "category": "uttar pradesh",
+            "source": "Oneindia",
+            "language": "hi",
+            "feed_url": "https://hindi.oneindia.com/rss/feeds/hindi-uttar-pradesh-fb.xml"
+        },
+        {
+            "_id": {
+                "$oid": "663db5d3c6f9be692573d44c"
+            },
+            "weight": 0,
+            "category": "rajasthan",
+            "source": "Oneindia",
+            "language": "hi",
+            "feed_url": "https://hindi.oneindia.com/rss/feeds/hindi-rajasthan-fb.xml"
+        },
+        {
+            "_id": {
+                "$oid": "663db5d3c6f9be692573d44d"
+            },
+            "weight": 0,
+            "category": "haryana",
+            "source": "Oneindia",
+            "language": "hi",
+            "feed_url": "https://hindi.oneindia.com/rss/feeds/hindi-haryana-fb.xml"
+        },
+        {
+            "_id": {
+                "$oid": "663db5d3c6f9be692573d44e"
+            },
+            "weight": 0,
+            "category": "varanasi",
+            "source": "Oneindia",
+            "language": "hi",
+            "feed_url": "https://hindi.oneindia.com/rss/feeds/hindi-varanasi-fb.xml"
+        },
+        {
+            "_id": {
+                "$oid": "663db5d3c6f9be692573d44f"
+            },
+            "weight": 0,
+            "category": "Chhattisgarh",
+            "source": "Oneindia",
+            "language": "hi",
+            "feed_url": "https://hindi.oneindia.com/rss/feeds/hindi-chhattisgarh-fb.xml"
+        },
+        {
+            "_id": {
+                "$oid": "663db5d3c6f9be692573d450"
+            },
+            "weight": 0,
+            "category": "Punjab",
+            "source": "Oneindia",
+            "language": "hi",
+            "feed_url": "https://hindi.oneindia.com/rss/feeds/hindi-punjab-fb.xml"
+        },
+        {
+            "_id": {
+                "$oid": "663db5d3c6f9be692573d451"
+            },
+            "weight": 0,
+            "category": "Jammu and Kashmir",
+            "source": "Oneindia",
+            "language": "hi",
+            "feed_url": "https://hindi.oneindia.com/rss/feeds/hindi-jammu-and-kashmir-fb.xml"
+        },
+        {
+            "_id": {
+                "$oid": "663db5d3c6f9be692573d452"
+            },
+            "weight": 0,
+            "category": "Gujarat",
+            "source": "Oneindia",
+            "language": "hi",
+            "feed_url": "https://hindi.oneindia.com/rss/feeds/hindi-gujarat-fb.xml"
+        },
+        {
+            "_id": {
+                "$oid": "663db5d3c6f9be692573d453"
+            },
+            "weight": 0,
+            "category": "West Bengal",
+            "source": "Oneindia",
+            "language": "hi",
+            "feed_url": "https://hindi.oneindia.com/rss/feeds/hindi-west-bengal-fb.xml"
+        },
+        {
+            "_id": {
+                "$oid": "663db5d3c6f9be692573d454"
+            },
+            "weight": 0,
+            "category": "Andhra Pradesh",
+            "source": "Hindustan Times",
+            "language": "te",
+            "feed_url": "https://telugu.hindustantimes.com/rss/andhra-pradesh"
+        },
+        {
+            "_id": {
+                "$oid": "663db5d3c6f9be692573d455"
+            },
+            "weight": 0,
+            "category": "Telangana",
+            "source": "Hindustan Times",
+            "language": "te",
+            "feed_url": "https://telugu.hindustantimes.com/rss/telangana"
+        },
+        {
+            "_id": {
+                "$oid": "663db5d3c6f9be692573d456"
+            },
+            "weight": 0,
+            "category": "Bengaluru",
+            "source": "Hindustan Times",
+            "language": "en",
+            "feed_url": "https://www.hindustantimes.com/feeds/rss/cities/bengaluru-news/rssfeed.xml"
+        },
+        {
+            "_id": {
+                "$oid": "663db5d3c6f9be692573d457"
+            },
+            "weight": 0,
+            "category": "Bhopal",
+            "source": "Hindustan Times",
+            "language": "en",
+            "feed_url": "https://www.hindustantimes.com/feeds/rss/cities/bhopal-news/rssfeed.xml"
+        },
+        {
+            "_id": {
+                "$oid": "663db5d3c6f9be692573d458"
+            },
+            "weight": 0,
+            "category": "Chandigarh",
+            "source": "Hindustan Times",
+            "language": "en",
+            "feed_url": "https://www.hindustantimes.com/feeds/rss/cities/chandigarh-news/rssfeed.xml"
+        },
+        {
+            "_id": {
+                "$oid": "663db5d3c6f9be692573d459"
+            },
+            "weight": 0,
+            "category": "Dehradun",
+            "source": "Hindustan Times",
+            "language": "en",
+            "feed_url": "https://www.hindustantimes.com/feeds/rss/cities/dehradun-news/rssfeed.xml"
+        },
+        {
+            "_id": {
+                "$oid": "663db5d3c6f9be692573d45a"
+            },
+            "weight": 0,
+            "category": "Delhi",
+            "source": "Hindustan Times",
+            "language": "en",
+            "feed_url": "https://www.hindustantimes.com/feeds/rss/cities/delhi-news/rssfeed.xml"
+        },
+        {
+            "_id": {
+                "$oid": "663db5d3c6f9be692573d45b"
+            },
+            "weight": 0,
+            "category": "Gurugram",
+            "source": "Hindustan Times",
+            "language": "en",
+            "feed_url": "https://www.hindustantimes.com/feeds/rss/cities/gurugram-news/rssfeed.xml"
+        },
+        {
+            "_id": {
+                "$oid": "663db5d3c6f9be692573d45c"
+            },
+            "weight": 0,
+            "category": "Indore",
+            "source": "Hindustan Times",
+            "language": "en",
+            "feed_url": "https://www.hindustantimes.com/feeds/rss/cities/indore-news/rssfeed.xml"
+        },
+        {
+            "_id": {
+                "$oid": "663db5d3c6f9be692573d45d"
+            },
+            "weight": 0,
+            "category": "Jaipur",
+            "source": "Hindustan Times",
+            "language": "en",
+            "feed_url": "https://www.hindustantimes.com/feeds/rss/cities/jaipur-news/rssfeed.xml"
+        },
+        {
+            "_id": {
+                "$oid": "663db5d3c6f9be692573d45e"
+            },
+            "weight": 0,
+            "category": "Kolkata",
+            "source": "Hindustan Times",
+            "language": "en",
+            "feed_url": "https://www.hindustantimes.com/feeds/rss/cities/kolkata-news/rssfeed.xml"
+        },
+        {
+            "_id": {
+                "$oid": "663db5d3c6f9be692573d45f"
+            },
+            "weight": 0,
+            "category": "Lucknow",
+            "source": "Hindustan Times",
+            "language": "en",
+            "feed_url": "https://www.hindustantimes.com/feeds/rss/cities/lucknow-news/rssfeed.xml"
+        },
+        {
+            "_id": {
+                "$oid": "663db5d3c6f9be692573d460"
+            },
+            "weight": 0,
+            "category": "Mumbai",
+            "source": "Hindustan Times",
+            "language": "en",
+            "feed_url": "https://www.hindustantimes.com/feeds/rss/cities/mumbai-news/rssfeed.xml"
+        },
+        {
+            "_id": {
+                "$oid": "663db5d3c6f9be692573d461"
+            },
+            "weight": 0,
+            "category": "Noida",
+            "source": "Hindustan Times",
+            "language": "en",
+            "feed_url": "https://www.hindustantimes.com/feeds/rss/cities/noida-news/rssfeed.xml"
+        },
+        {
+            "_id": {
+                "$oid": "663db5d3c6f9be692573d462"
+            },
+            "weight": 0,
+            "category": "Patna",
+            "source": "Hindustan Times",
+            "language": "en",
+            "feed_url": "https://www.hindustantimes.com/feeds/rss/cities/patna-news/rssfeed.xml"
+        },
+        {
+            "_id": {
+                "$oid": "663db5d3c6f9be692573d463"
+            },
+            "weight": 0,
+            "category": "Pune",
+            "source": "Hindustan Times",
+            "language": "en",
+            "feed_url": "https://www.hindustantimes.com/feeds/rss/cities/pune-news/rssfeed.xml"
+        },
+        {
+            "_id": {
+                "$oid": "663db5d3c6f9be692573d464"
+            },
+            "weight": 0,
+            "category": "Ranchi",
+            "source": "Hindustan Times",
+            "language": "en",
+            "feed_url": "https://www.hindustantimes.com/feeds/rss/cities/ranchi-news/rssfeed.xml"
+        }
+    ]
+}
