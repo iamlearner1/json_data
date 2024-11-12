@@ -1,0 +1,94 @@
+{
+  "Python Interview Preparation": {
+    "Core Python Syntax and Data Types": [
+      "Variables and Data Types (int, float, string, boolean)",
+      "Type Conversion",
+      "Basic Operators (Arithmetic, Logical, Comparison)",
+      "Control Structures (if-else, loops)",
+      "List, Tuple, Set, Dictionary",
+      "List Comprehension",
+      "String Manipulation"
+    ],
+    "Functions and Modules": [
+      "Defining Functions and Parameters (default, *args, **kwargs)",
+      "Scope and Lifetime of Variables",
+      "Lambda Functions",
+      "Importing and Using Modules",
+      "Understanding Built-in Modules (math, datetime, os, sys)"
+    ],
+    "Object-Oriented Programming (OOP)": [
+      "Classes and Objects",
+      "Constructors and Destructors",
+      "Inheritance, Encapsulation, and Polymorphism",
+      "Dunder (Magic) Methods",
+      "Abstract Classes and Interfaces",
+      "Composition vs. Inheritance"
+    ],
+    "Error Handling and Debugging": [
+      "Try, Except, Finally Blocks",
+      "Custom Exceptions",
+      "Assertions",
+      "Debugging Tools (pdb, print debugging)"
+    ],
+    "Data Structures and Algorithms Basics": [
+      "Basic Data Structures (Arrays, Linked Lists)",
+      "Searching and Sorting Algorithms (Binary Search, Quick Sort, Merge Sort)",
+      "Time Complexity and Big O Notation",
+      "Recursion"
+    ],
+    "File Handling": [
+      "Reading and Writing Files",
+      "Working with File Paths",
+      "JSON and CSV File Handling",
+      "Context Managers (with statement)"
+    ],
+    "Libraries and Frameworks Commonly Used in Python": {
+      "Pandas": [
+        "DataFrames",
+        "Data Manipulation",
+        "Aggregation"
+      ],
+      "NumPy": [
+        "Arrays",
+        "Matrix Operations",
+        "Basic Functions"
+      ],
+      "Matplotlib/Seaborn": [
+        "Basic Plotting",
+        "Data Visualization"
+      ],
+      "Requests": [
+        "Working with HTTP Requests and APIs"
+      ],
+      "Flask/Django": [
+        "Building Simple Web Applications (basic knowledge)"
+      ]
+    },
+    "Database Interaction": [
+      "SQL Basics (CRUD operations, Joins, Queries)",
+      "Using Python to Connect to a Database (SQLite, MySQL)",
+      "ORM Basics (SQLAlchemy, Django ORM)"
+    ],
+    "Working with APIs and Web Scraping": [
+      "Making HTTP Requests (GET, POST)",
+      "REST API Basics (JSON, Endpoints, Status Codes)",
+      "Basic Web Scraping (BeautifulSoup, Scrapy)",
+      "API Authentication (API keys, OAuth)"
+    ],
+    "Version Control (Git)": [
+      "Basic Git Commands (clone, commit, push, pull)",
+      "Branching and Merging",
+      "GitHub/GitLab Repositories"
+    ],
+    "Understanding and Using Virtual Environments": [
+      "Creating and Activating Virtual Environments",
+      "Pip and Package Management",
+      "Managing Dependencies (requirements.txt)"
+    ],
+    "Testing in Python": [
+      "Writing Unit Tests",
+      "Using unittest and pytest frameworks",
+      "Mocking and Test Coverage"
+    ]
+  }
+}
