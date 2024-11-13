@@ -1,0 +1,14 @@
+{
+  "logs": [
+    {
+      "productId": "123",
+      "store": "zepto",
+      "price": 83,
+      "measurement": {
+        "value": "500",
+        "unit": "g"
+      },
+      "date": "2024-08-01T08:45:27.657Z"
+    }
+  ]
+}
