@@ -2,6 +2,58 @@
   "questions": [
     {
       "quizID": "quiz1",
+      "questionText": "example match1.",
+      "solution": "1 - One, 2 - Two",
+      "timer": 30,
+      "questionType": "match",
+      "options": [
+        {
+          "1": "one"
+        },
+        {
+          "2": "two"
+        },
+        {
+          "3": "three"
+        },
+        {
+          "4": "four"
+        }
+      ]
+    },
+    {
+      "quizID": "quiz1",
+      "questionText": "example words-order1.",
+      "solution": "better late than never in hindi is देर आए दुरुस्त आए",
+      "timer": 30,
+      "questionType": "words-order",
+      "answer": "देर आए दुरुस्त आए",
+      "question": "Translate this: better late than never",
+      "extra_words": [
+        "भली",
+        "भला"
+      ]
+    },
+    {
+      "quizID": "quiz1",
+      "questionText": "example match2.",
+      "solution": "banana - yellow, tomato - red",
+      "timer": 30,
+      "questionType": "match",
+      "options": [
+        {
+          "banana": "yellow"
+        },
+        {
+          "tomato": "red"
+        },
+        {
+          "eggplant": "purple"
+        }
+      ]
+    },
+    {
+      "quizID": "quiz1",
       "questionText": "What is the capital of France?",
       "options": [
         {
