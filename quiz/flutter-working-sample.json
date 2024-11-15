@@ -1,0 +1,84 @@
+{
+  "questions": [
+    {
+      "quizID": "quiz1",
+      "questionText": "What is the capital of France?",
+      "options": [
+        {
+          "optionText": "Paris",
+          "correct": true
+        },
+        {
+          "optionText": "London",
+          "correct": false
+        },
+        {
+          "optionText": "Berlin",
+          "correct": false
+        }
+      ],
+      "solution": "Paris is the capital of France.",
+      "timer": 30,
+      "questionType": "MultiChoice"
+    },
+    {
+      "quizID": "quiz1",
+      "questionText": "The chemical formula for water is H2O.",
+      "solution": "H2O",
+      "timer": 30,
+      "questionType": "Blanks"
+    },
+    {
+      "quizID": "quiz1",
+      "taskDescription": "Order the planets from smallest to largest",
+      "options": [
+        {
+          "optionText": "Mercury",
+          "imageDetails": {
+            "path": "https://cdn.pixabay.com/photo/2012/01/09/09/33/mercury-11591_1280.png"
+          }
+        },
+        {
+          "optionText": "Earth",
+          "imageDetails": {
+            "path": "https://cdn.pixabay.com/photo/2011/12/13/14/28/earth-11008_1280.jpg"
+          }
+        },
+        {
+          "optionText": "Mars",
+          "imageDetails": {
+            "path": "https://cdn.pixabay.com/photo/2011/12/13/14/30/mars-11012_1280.jpg"
+          }
+        }
+      ],
+      "solution": "Correct sequence: Boil water, Add tea leaves, Pour into cup.",
+      "timer": 45,
+      "questionType": "Sequence"
+    },
+    {
+      "quizID": "quiz1",
+      "questionText": "The earth is flat.",
+      "solution": "False",
+      "options": [
+        {
+          "optionText": "True",
+          "correct": false
+        },
+        {
+          "optionText": "False",
+          "correct": true
+        }
+      ],
+      "timer": 10,
+      "questionType": "TrueFalse"
+    },
+    {
+      "quizID": "quiz1",
+      "questionText": "The quick brown fox jumps over the lazy dog.",
+      "taskDescription": "Select the adjectives in the sentence:",
+      "solution": "Adjectives: quick, brown, lazy",
+      "timer": 20,
+      "questionType": "MarkTheWords"
+    }
+  ]
+}
