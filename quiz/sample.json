@@ -40,11 +40,11 @@
         "question": "Drag and drop the correct words into the blanks to complete the sentence: Photosynthesis occurs in the _______ of the cell and requires sunlight, water, and _______.",
         "blanks": [
           {
-            "text": "chloroplasts",
+            "text": ["chloroplasts"],
             "position": 1
           },
           {
-            "text": "carbon dioxide",
+            "text": ["carbon dioxide", "co2"],
             "position": 2
           }
         ]
@@ -52,7 +52,12 @@
       {
         "type": "fitb",
         "question": "Fill in the blank: The chemical formula for photosynthesis is 6CO₂ + 6H₂O + light energy → C₆H₁₂O₆ + _______.",
-        "correct_answer": "6O₂"
+        "blanks": [
+          {
+            "text": ["6O₂"],
+            "position": 1
+          }
+        ]
       },
       {
         "type": "mark_words",
@@ -109,7 +114,12 @@
       {
         "type": "fitb",
         "question": "Photosynthesis produces _______ as a byproduct.",
-        "correct_answer": "oxygen"
+        "blanks": [
+          {
+            "text": ["oxygen"],
+            "position": 1
+          }
+        ]
       }
     ]
   }
